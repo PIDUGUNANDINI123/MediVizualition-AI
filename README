@@ -1,0 +1,58 @@
+🏥 MedViz AI
+
+MedViz AI is an interactive healthcare data visualization and analysis web application built using Streamlit. It allows users to upload datasets, generate insightful visualizations, perform basic risk predictions, and query data using natural language.
+
+🚀 Features
+📤 Data Upload
+Upload healthcare datasets in CSV format
+Preview data instantly in a table
+📊 Advanced Visualization
+Multiple chart types:
+Bar Chart
+Countplot
+Pie Chart
+Histogram
+Line Chart
+Dynamic column selection
+Download charts as PNG
+Easy sharing of visual outputs
+🤖 AI Risk Prediction
+
+Predict disease risk using:
+
+Age
+Sugar Level
+Gender
+
+Outputs:
+
+Low Risk ✅
+Medium Risk ⚡
+High Risk ⚠️
+📈 Automated Insights
+
+Detects:
+
+Average Age
+Most Common Disease
+Sugar Level trends
+Gender distribution
+
+Generates quick summaries for better decision-making.
+
+💬 NLP Query System
+
+Ask simple questions like:
+
+"Show age distribution"
+"Most common disease"
+"Gender stats"
+
+Automatically generates charts or results.
+
+🛠️ Tech Stack
+Python
+Streamlit
+Pandas
+Matplotlib
+Seaborn
